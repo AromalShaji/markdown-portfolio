@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Programmning using python*
+_Programmning using python_
+
+**Programmning using C**
+__Programmning using C__
+
+_Programmning using **python** and **C**_
